@@ -36,7 +36,7 @@ Welcome to the Airbnb Clone project! This project is a web application that mimi
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/airbnb-clone.git`
+1. Clone the repository: `git clone https://github.com/devayanm/Airbnb-clone.git`
 2. Navigate to the project directory: `cd airbnb-clone`
 3. Install dependencies: `npm install`
 
