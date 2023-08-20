@@ -11,6 +11,9 @@
 <div align="center">
   ![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
   ![License](https://img.shields.io/badge/license-MIT-blue)
+</div>
+
+<div align="center">
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/devayan-mandal)
   [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/devayan.m)
   [![Instagram](https://img.shields.io/badge/Instagram-Follow-purple)](https://www.instagram.com/iamdevayan/)
