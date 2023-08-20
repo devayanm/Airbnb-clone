@@ -23,7 +23,6 @@ Welcome to the Airbnb Clone project! This project is a web application that mimi
 - View detailed information about a listing
 - Filter listings based on various criteria
 - Responsive design for a seamless experience on different devices
-- [Add any additional features your clone includes]
 
 ## Technologies Used
 
